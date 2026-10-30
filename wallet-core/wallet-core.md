@@ -35,6 +35,7 @@ Add yours too!
 - [xPortal](https://xportal.com/)
 - [Slingshot](https://slingshot.finance/)
 - [ECOIN Wallet](https://play.google.com/store/apps/details?id=org.ecoinwallet)
+- [Fexr Wallet](https://fexr.io)
 
 ## Contributing
 
